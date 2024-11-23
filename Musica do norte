@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Música do Norte</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Bem-vindo ao Música do Norte</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Início</a></li>
+                <li><a href="sobre.html">Sobre</a></li>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="promo">
+            <img src="path/to/your/image.jpg" alt="Capa Música do Norte">
+            <p>RHS PRESENTS</p>
+            <p>A sua memória é a nossa prioridade.</p>
+            <p>EP NA ÁFRICA: SORRISO ESCONDIDO</p>
+            <p>BREVEMENTE</p>
+            <p>DATA POR ANUNCIAR</p>
+            <p>Contato: +258842089738</p>
+        </section>
+        <section id="info">
+            <h2>Sobre a Música do Norte de Moçambique</h2>
+            <p>A região norte de Moçambique é rica em tradições musicais. Aqui, a música é uma forma essencial de expressão cultural e social, profundamente enraizada nas celebrações comunitárias, rituais e cerimônias.</p>
+            <p>Instrumentos tradicionais, como a timbila (um tipo de xilofone), a mbira (uma lamelofone), e tambores feitos à mão, são frequentemente usados para criar ritmos e melodias únicos. O estilo musical é muitas vezes caracterizado por seu uso dinâmico de percussão e vocalizações poderosas.</p>
+            <p>Bandas e artistas da região frequentemente combinam esses elementos tradicionais com influências modernas, criando um som vibrante e inovador que ressoa tanto em eventos locais quanto em festivais internacionais.</p>
+        </section>
+        <article>
+            <h2>Título do Post</h2>
+            <p>Este é o conteúdo do post. Escreva algo interessante aqui sobre a música do norte.</p>
+            <section id="comments">
+                <h3>Comentários</h3>
+                <div class="comment">
+                    <p>Comentário exemplo. Adicione aqui os comentários dos leitores.</p>
+                </div>
+                <form id="commentForm">
+                    <label for="comment">Deixe seu comentário:</label>
+                    <textarea id="comment" name="comment" required></textarea>
+                    <button type="submit">Enviar</button>
+                </form>
+            </section>
+        </article>
+        <article>
+            <h2>Outro Título</h2>
+            <p>Mais conteúdo interessante para seus leitores sobre as tradições musicais do norte.</p>
+        </article>
+        <section id="newsletter">
+            <h2>Assine a nossa Newsletter</h2>
+            <form id="newsletterForm">
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+                <button type="submit">Assinar</button>
+            </form>
+        </section>
+        <section id="payments">
+            <h2>Formas de Pagamento</h2>
+            <p>Para apoiar nosso trabalho ou adquirir produtos, você pode realizar pagamentos através de:</p>
+            <ul>
+                <li>e-Mola: +258869142409</li>
+                <li>M-Pesa: +258842438984</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Música do Norte</p>
+        <p>Email: <a href="mailto:musicadonorte7@gmail.com">musicadonorte7@gmail.com</a></p>
+        <p>Celular: <a href="tel:+258869142409">+258 869 142 409</a></p>
+        <p>WhatsApp: <a href="https://wa.me/258879832638">+258 879 832 638</a></p>
+        <p>Facebook: <a href="URL_DO_SEU_FACEBOOK">Broyz Khamuera</a></p>
+    </footer>
+    <script src="scripts.js"></script>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre - Música do Norte</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Sobre Música do Norte</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Início</a></li>
+                <li><a href="sobre.html">Sobre</a></li>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="about">
+            <h2>Nossa Missão</h2>
+            <p>Música do Norte é dedicada a celebrar e promover a rica tradição musical do norte de Moçambique. Nosso objetivo é conectar pessoas através da música, destacando artistas locais e eventos culturais.</p>
+            <h2>Nossa História</h2>
+            <p>Fundado em 2024, Música do Norte nasceu da paixão pela música tradicional e moderna da região. Desde então, temos trabalhado para criar uma plataforma onde os amantes da música possam descobrir e se envolver com a cultura musical única do norte de Moçambique.</p>
+            <h2>Tendências Musicais em Cabo Delgado</h2>
+            <p>Cabo Delgado tem se destacado como um polo de criatividade musical, com muitos artistas locais usando suas vozes para chamar a atenção para causas sociais e promover a cultura da região. Projetos como o "Música Para Todos" têm permitido explorar a criatividade e oferecer terapias artísticas para deslocados internos, trazendo conforto e esperança. A X-Hub, uma incubadora de negócios culturais e criativos, também tem sido fundamental na promoção de músicas, podcasts e outros conteúdos audiovisuais na província.</p>
+            <h2>Nossos Esforços</h2>
+            <p>Estamos comprometidos em apoiar e promover esses talentos locais, oferecendo uma plataforma para que suas vozes sejam ouvidas e suas histórias contadas. Juntos, podemos celebrar e preservar a rica herança musical de Cabo Delgado.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Música do Norte</p>
+        <p>Email: <a href="mailto:musicadonorte7@gmail.com">musicadonorte7@gmail.com</a></p>
+        <p>Celular: <a href="tel:+258869142409">+258 869 142 409</a></p>
+        <p>WhatsApp: <a href="https://wa.me/258879832638">+258 879 832 638</a></p>
+        <p>Facebook: <a href="URL_DO_SEU_FACEBOOK">Broyz Khamuera</a></p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contato - Música do Norte</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Contato Música do Norte</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Início</a></li>
+                <li><a href="sobre.html">Sobre</a></li>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="contact">
+            <h2>Entre em Contato</h2>
+            <form id="contactForm">
+                <label for="name">Nome:</label>
+                <input type="text" id="name" name="name" required>
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+                <label for="message">Mensagem:</label>
+                <textarea id="message" name="message" required></textarea>
+                <button type="submit">Enviar</button>
+            </form>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Música do Norte</p>
+        <p>Email: <a href="mailto:musicadonorte7@gmail.com">musicadonorte7@gmail.com[_{{{CITATION{{{_1{](https://github.com/Hargre/a11y-catalog/tree/fdd7bd6a0c0b3db9ba9e6b0e9218d1000e323cb7/src%2Fpages%2Fexamples%2Fbase_html.md)[_{{{CITATION{{{_2{](https://github.com/paulaaraujo11/UNIFITNESS/tree/c7537dc522bc31c6d3639550a1971c8dd10042a1/caduser.php)[_{{{CITATION{{{_3{](https://github.com/matheusfterra/meusite/tree/c44c74c9db8b62169154f40670434488ffe9fce2/includes%2Fmenu-responsivo.php)[_{{{CITATION{{{_4{](https://github.com/CarlNierves/CarlNierves.github.io/tree/faf325f68517f148ef66653d9dbd3488d7e85b91/index.php)
